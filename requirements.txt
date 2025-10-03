@@ -8,3 +8,8 @@ fastparquet
 plotly
 streamlit
 tenacity
+geopy
+minio
+pandas
+airflow-provider-duckdb
+#astro-sdk-python
